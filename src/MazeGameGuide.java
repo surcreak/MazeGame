@@ -11,7 +11,8 @@ import javax.swing.JRadioButton;
 public class MazeGameGuide extends JFrame {
 	public static void main(String args[]) {
 		System.out.println("Mazegame main");
-		new MazeGameGuide();
+//		new MazeGameGuide();
+		new MazeGame();
 	}
 
 	public MazeGameGuide() {
